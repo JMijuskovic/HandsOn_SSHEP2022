@@ -5,6 +5,5 @@ The hands-down easiest way is to use the entirely browser-based [MyBinder](https
 
 |Notebook|Open|
 |:--|:--|
-|Welcome to Jupyter!|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/JMijuskovic/cms-opendata-test/master?filepath=test.ipynb)|
-|Exercise 1!|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/JMijuskovic/cms-opendata-test/master?filepath=CMS_EventDisplay.ipynb)|
-|Exercise 2!|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/JMijuskovic/cms-opendata-test/master?filepath=DataFiles.ipynb)|
+|Event display|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/JMijuskovic/cms-opendata-test/master?filepath=CMS_EventDisplay.ipynb)|
+|Invariant mass|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/JMijuskovic/cms-opendata-test/master?filepath=DataFiles.ipynb)|
