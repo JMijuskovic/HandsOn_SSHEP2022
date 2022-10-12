@@ -6,4 +6,4 @@ The hands-down easiest way is to use the entirely browser-based [MyBinder](https
 |Notebook|Open|
 |:--|:--|
 |Event display|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/JMijuskovic/cms-opendata-test/master?filepath=CMS_EventDisplay.ipynb)|
-|Invariant mass|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/JMijuskovic/cms-opendata-test/master?filepath=DataFiles.ipynb)|
+|Invariant mass|[![Binder](https://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/JMijuskovic/HandsOn_SSHEP2022/master?filepath=DataFiles.ipynb)|
